@@ -1,0 +1,8 @@
+You will need following libraries in python to run your code successfully:
+1.) streamlit
+2.) matplotlib
+3.) seaborn
+4.) urlextract
+5.) wordcloud
+6.) pandas
+7.) emoji
