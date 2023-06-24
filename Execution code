@@ -1,0 +1,5 @@
+To run your code, you must input following line of code in your terminal of Pycharm:
+
+streamlit run main.py
+
+you can change your file according to your need. for my case its main.
